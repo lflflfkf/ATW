@@ -1,0 +1,194 @@
+country,code,capital,flag,region
+Afghanistan,AFG,Kabul,🇦🇫,Asia
+Angola,AGO,Luanda,🇦🇴,Africa
+Albania,ALB,Tirana,🇦🇱,Europe
+Andorra,AND,Andorra la Vella,🇦🇩,Europe
+United Arab Emirates,ARE,Abu Dhabi,🇦🇪,Asia
+Argentina,ARG,Buenos Aires,🇦🇷,Americas
+Armenia,ARM,Yerevan,🇦🇲,Asia
+Antigua and Barbuda,ATG,Saint John's,🇦🇬,Americas
+Australia,AUS,Canberra,🇦🇺,Oceania
+Austria,AUT,Vienna,🇦🇹,Europe
+Azerbaijan,AZE,Baku,🇦🇿,Asia
+Burundi,BDI,Gitega,🇧🇮,Africa
+Belgium,BEL,Brussels,🇧🇪,Europe
+Benin,BEN,Porto-Novo,🇧🇯,Africa
+Burkina Faso,BFA,Ouagadougou,🇧🇫,Africa
+Bangladesh,BGD,Dhaka,🇧🇩,Asia
+Bulgaria,BGR,Sofia,🇧🇬,Europe
+Bahrain,BHR,Manama,🇧🇭,Asia
+Bahamas,BHS,Nassau,🇧🇸,Americas
+Bosnia and Herzegovina,BIH,Sarajevo,🇧🇦,Europe
+Belarus,BLR,Minsk,🇧🇾,Europe
+Belize,BLZ,Belmopan,🇧🇿,Americas
+Bolivia,BOL,Sucre,🇧🇴,Americas
+Brazil,BRA,Brasília,🇧🇷,Americas
+Barbados,BRB,Bridgetown,🇧🇧,Americas
+Brunei,BRN,Bandar Seri Begawan,🇧🇳,Asia
+Bhutan,BTN,Thimphu,🇧🇹,Asia
+Botswana,BWA,Gaborone,🇧🇼,Africa
+Central African Republic,CAF,Bangui,🇨🇫,Africa
+Canada,CAN,Ottawa,🇨🇦,Americas
+Switzerland,CHE,Bern,🇨🇭,Europe
+Chile,CHL,Santiago,🇨🇱,Americas
+China,CHN,Beijing,🇨🇳,Asia
+Ivory Coast,CIV,Yamoussoukro,🇨🇮,Africa
+Cameroon,CMR,Yaoundé,🇨🇲,Africa
+DR Congo,COD,Kinshasa,🇨🇩,Africa
+Congo,COG,Brazzaville,🇨🇬,Africa
+Colombia,COL,Bogotá,🇨🇴,Americas
+Comoros,COM,Moroni,🇰🇲,Africa
+Cape Verde,CPV,Praia,🇨🇻,Africa
+Costa Rica,CRI,San José,🇨🇷,Americas
+Cuba,CUB,Havana,🇨🇺,Americas
+Cyprus,CYP,Nicosia,🇨🇾,Europe
+Czechia,CZE,Prague,🇨🇿,Europe
+Germany,DEU,Berlin,🇩🇪,Europe
+Djibouti,DJI,Djibouti,🇩🇯,Africa
+Dominica,DMA,Roseau,🇩🇲,Americas
+Denmark,DNK,Copenhagen,🇩🇰,Europe
+Dominican Republic,DOM,Santo Domingo,🇩🇴,Americas
+Algeria,DZA,Algiers,🇩🇿,Africa
+Ecuador,ECU,Quito,🇪🇨,Americas
+Egypt,EGY,Cairo,🇪🇬,Africa
+Eritrea,ERI,Asmara,🇪🇷,Africa
+Spain,ESP,Madrid,🇪🇸,Europe
+Estonia,EST,Tallinn,🇪🇪,Europe
+Ethiopia,ETH,Addis Ababa,🇪🇹,Africa
+Finland,FIN,Helsinki,🇫🇮,Europe
+Fiji,FJI,Suva,🇫🇯,Oceania
+France,FRA,Paris,🇫🇷,Europe
+Micronesia,FSM,Palikir,🇫🇲,Oceania
+Gabon,GAB,Libreville,🇬🇦,Africa
+United Kingdom,GBR,London,🇬🇧,Europe
+Georgia,GEO,Tbilisi,🇬🇪,Asia
+Ghana,GHA,Accra,🇬🇭,Africa
+Guinea,GIN,Conakry,🇬🇳,Africa
+Gambia,GMB,Banjul,🇬🇲,Africa
+Guinea-Bissau,GNB,Bissau,🇬🇼,Africa
+Equatorial Guinea,GNQ,Ciudad de la Paz,🇬🇶,Africa
+Greece,GRC,Athens,🇬🇷,Europe
+Grenada,GRD,St. George's,🇬🇩,Americas
+Guatemala,GTM,Guatemala City,🇬🇹,Americas
+Guyana,GUY,Georgetown,🇬🇾,Americas
+Honduras,HND,Tegucigalpa,🇭🇳,Americas
+Croatia,HRV,Zagreb,🇭🇷,Europe
+Haiti,HTI,Port-au-Prince,🇭🇹,Americas
+Hungary,HUN,Budapest,🇭🇺,Europe
+Indonesia,IDN,Jakarta,🇮🇩,Asia
+India,IND,New Delhi,🇮🇳,Asia
+Ireland,IRL,Dublin,🇮🇪,Europe
+Iran,IRN,Tehran,🇮🇷,Asia
+Iraq,IRQ,Baghdad,🇮🇶,Asia
+Iceland,ISL,Reykjavik,🇮🇸,Europe
+Israel,ISR,Jerusalem,🇮🇱,Asia
+Italy,ITA,Rome,🇮🇹,Europe
+Jamaica,JAM,Kingston,🇯🇲,Americas
+Jordan,JOR,Amman,🇯🇴,Asia
+Japan,JPN,Tokyo,🇯🇵,Asia
+Kazakhstan,KAZ,Astana,🇰🇿,Asia
+Kenya,KEN,Nairobi,🇰🇪,Africa
+Kyrgyzstan,KGZ,Bishkek,🇰🇬,Asia
+Cambodia,KHM,Phnom Penh,🇰🇭,Asia
+Kiribati,KIR,South Tarawa,🇰🇮,Oceania
+Saint Kitts and Nevis,KNA,Basseterre,🇰🇳,Americas
+South Korea,KOR,Seoul,🇰🇷,Asia
+Kuwait,KWT,Kuwait City,🇰🇼,Asia
+Laos,LAO,Vientiane,🇱🇦,Asia
+Lebanon,LBN,Beirut,🇱🇧,Asia
+Liberia,LBR,Monrovia,🇱🇷,Africa
+Libya,LBY,Tripoli,🇱🇾,Africa
+Saint Lucia,LCA,Castries,🇱🇨,Americas
+Liechtenstein,LIE,Vaduz,🇱🇮,Europe
+Sri Lanka,LKA,Colombo,🇱🇰,Asia
+Lesotho,LSO,Maseru,🇱🇸,Africa
+Lithuania,LTU,Vilnius,🇱🇹,Europe
+Luxembourg,LUX,Luxembourg,🇱🇺,Europe
+Latvia,LVA,Riga,🇱🇻,Europe
+Morocco,MAR,Rabat,🇲🇦,Africa
+Monaco,MCO,Monaco,🇲🇨,Europe
+Moldova,MDA,Chișinău,🇲🇩,Europe
+Madagascar,MDG,Antananarivo,🇲🇬,Africa
+Maldives,MDV,Malé,🇲🇻,Asia
+Mexico,MEX,Mexico City,🇲🇽,Americas
+Marshall Islands,MHL,Majuro,🇲🇭,Oceania
+North Macedonia,MKD,Skopje,🇲🇰,Europe
+Mali,MLI,Bamako,🇲🇱,Africa
+Malta,MLT,Valletta,🇲🇹,Europe
+Myanmar,MMR,Naypyidaw,🇲🇲,Asia
+Montenegro,MNE,Podgorica,🇲🇪,Europe
+Mongolia,MNG,Ulan Bator,🇲🇳,Asia
+Mozambique,MOZ,Maputo,🇲🇿,Africa
+Mauritania,MRT,Nouakchott,🇲🇷,Africa
+Mauritius,MUS,Port Louis,🇲🇺,Africa
+Malawi,MWI,Lilongwe,🇲🇼,Africa
+Malaysia,MYS,Kuala Lumpur,🇲🇾,Asia
+Namibia,NAM,Windhoek,🇳🇦,Africa
+Niger,NER,Niamey,🇳🇪,Africa
+Nigeria,NGA,Abuja,🇳🇬,Africa
+Nicaragua,NIC,Managua,🇳🇮,Americas
+Netherlands,NLD,Amsterdam,🇳🇱,Europe
+Norway,NOR,Oslo,🇳🇴,Europe
+Nepal,NPL,Kathmandu,🇳🇵,Asia
+Nauru,NRU,Yaren,🇳🇷,Oceania
+New Zealand,NZL,Wellington,🇳🇿,Oceania
+Oman,OMN,Muscat,🇴🇲,Asia
+Pakistan,PAK,Islamabad,🇵🇰,Asia
+Panama,PAN,Panama City,🇵🇦,Americas
+Peru,PER,Lima,🇵🇪,Americas
+Philippines,PHL,Manila,🇵🇭,Asia
+Palau,PLW,Ngerulmud,🇵🇼,Oceania
+Papua New Guinea,PNG,Port Moresby,🇵🇬,Oceania
+Poland,POL,Warsaw,🇵🇱,Europe
+North Korea,PRK,Pyongyang,🇰🇵,Asia
+Portugal,PRT,Lisbon,🇵🇹,Europe
+Paraguay,PRY,Asunción,🇵🇾,Americas
+Qatar,QAT,Doha,🇶🇦,Asia
+Romania,ROU,Bucharest,🇷🇴,Europe
+Russia,RUS,Moscow,🇷🇺,Europe
+Rwanda,RWA,Kigali,🇷🇼,Africa
+Saudi Arabia,SAU,Riyadh,🇸🇦,Asia
+Sudan,SDN,Khartoum,🇸🇩,Africa
+Senegal,SEN,Dakar,🇸🇳,Africa
+Singapore,SGP,Singapore,🇸🇬,Asia
+Solomon Islands,SLB,Honiara,🇸🇧,Oceania
+Sierra Leone,SLE,Freetown,🇸🇱,Africa
+El Salvador,SLV,San Salvador,🇸🇻,Americas
+San Marino,SMR,City of San Marino,🇸🇲,Europe
+Somalia,SOM,Mogadishu,🇸🇴,Africa
+Serbia,SRB,Belgrade,🇷🇸,Europe
+South Sudan,SSD,Juba,🇸🇸,Africa
+São Tomé and Príncipe,STP,São Tomé,🇸🇹,Africa
+Suriname,SUR,Paramaribo,🇸🇷,Americas
+Slovakia,SVK,Bratislava,🇸🇰,Europe
+Slovenia,SVN,Ljubljana,🇸🇮,Europe
+Sweden,SWE,Stockholm,🇸🇪,Europe
+Eswatini,SWZ,Lobamba,🇸🇿,Africa
+Seychelles,SYC,Victoria,🇸🇨,Africa
+Syria,SYR,Damascus,🇸🇾,Asia
+Chad,TCD,N'Djamena,🇹🇩,Africa
+Togo,TGO,Lomé,🇹🇬,Africa
+Thailand,THA,Bangkok,🇹🇭,Asia
+Tajikistan,TJK,Dushanbe,🇹🇯,Asia
+Turkmenistan,TKM,Ashgabat,🇹🇲,Asia
+Timor-Leste,TLS,Dili,🇹🇱,Asia
+Tonga,TON,Nuku'alofa,🇹🇴,Oceania
+Trinidad and Tobago,TTO,Port of Spain,🇹🇹,Americas
+Tunisia,TUN,Tunis,🇹🇳,Africa
+Türkiye,TUR,Ankara,🇹🇷,Asia
+Tuvalu,TUV,Funafuti,🇹🇻,Oceania
+Tanzania,TZA,Dodoma,🇹🇿,Africa
+Uganda,UGA,Kampala,🇺🇬,Africa
+Ukraine,UKR,Kyiv,🇺🇦,Europe
+Uruguay,URY,Montevideo,🇺🇾,Americas
+United States,USA,Washington D.C.,🇺🇸,Americas
+Uzbekistan,UZB,Tashkent,🇺🇿,Asia
+Vatican City,VAT,Vatican City,🇻🇦,Europe
+Saint Vincent and the Grenadines,VCT,Kingstown,🇻🇨,Americas
+Venezuela,VEN,Caracas,🇻🇪,Americas
+Vietnam,VNM,Hanoi,🇻🇳,Asia
+Vanuatu,VUT,Port Vila,🇻🇺,Oceania
+Samoa,WSM,Apia,🇼🇸,Oceania
+Yemen,YEM,Sana'a,🇾🇪,Asia
+Zambia,ZMB,Lusaka,🇿🇲,Africa
+Zimbabwe,ZWE,Harare,🇿🇼,Africa

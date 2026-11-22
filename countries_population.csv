@@ -1,0 +1,193 @@
+country,code,capital,flag,region,lat,lon,population,year
+Afghanistan,AFG,Kabul,🇦🇫,Asia,33.0,65.0,43844111,2025
+Angola,AGO,Luanda,🇦🇴,Africa,-12.5,18.5,39040039,2025
+Albania,ALB,Tirana,🇦🇱,Europe,41.0,20.0,2349580,2025
+Andorra,AND,Andorra la Vella,🇦🇩,Europe,42.5,1.5,82904,2025
+United Arab Emirates,ARE,Abu Dhabi,🇦🇪,Asia,24.0,54.0,11513149,2025
+Argentina,ARG,Buenos Aires,🇦🇷,Americas,-34.0,-64.0,45851378,2025
+Armenia,ARM,Yerevan,🇦🇲,Asia,40.0,45.0,3086700,2025
+Antigua and Barbuda,ATG,Saint John's,🇦🇬,Americas,17.05,-61.8,94209,2025
+Australia,AUS,Canberra,🇦🇺,Oceania,-27.0,133.0,27614411,2025
+Austria,AUT,Vienna,🇦🇹,Europe,47.33333333,13.33333333,9208163,2025
+Azerbaijan,AZE,Baku,🇦🇿,Asia,40.5,47.5,10246996,2025
+Burundi,BDI,Gitega,🇧🇮,Africa,-3.5,30.0,14390003,2025
+Belgium,BEL,Brussels,🇧🇪,Europe,50.83333333,4.0,11941781,2025
+Benin,BEN,Porto-Novo,🇧🇯,Africa,9.5,2.25,14814460,2025
+Burkina Faso,BFA,Ouagadougou,🇧🇫,Africa,13.0,-2.0,24074580,2025
+Bangladesh,BGD,Dhaka,🇧🇩,Asia,24.0,90.0,175686899,2025
+Bulgaria,BGR,Sofia,🇧🇬,Europe,43.0,25.0,6433302,2025
+Bahrain,BHR,Manama,🇧🇭,Asia,26.0,50.55,1600366,2025
+Bahamas,BHS,Nassau,🇧🇸,Americas,24.25,-76.0,403033,2025
+Bosnia and Herzegovina,BIH,Sarajevo,🇧🇦,Europe,44.0,18.0,3140095,2025
+Belarus,BLR,Minsk,🇧🇾,Europe,53.0,28.0,9085991,2025
+Belize,BLZ,Belmopan,🇧🇿,Americas,17.25,-88.75,422924,2025
+Bolivia,BOL,Sucre,🇧🇴,Americas,-17.0,-65.0,12581843,2025
+Brazil,BRA,Brasília,🇧🇷,Americas,-10.0,-55.0,212812405,2025
+Barbados,BRB,Bridgetown,🇧🇧,Americas,13.16666666,-59.53333333,282623,2025
+Brunei,BRN,Bandar Seri Begawan,🇧🇳,Asia,4.5,114.66666666,466330,2025
+Bhutan,BTN,Thimphu,🇧🇹,Asia,27.5,90.5,796682,2025
+Botswana,BWA,Gaborone,🇧🇼,Africa,-22.0,24.0,2562122,2025
+Central African Republic,CAF,Bangui,🇨🇫,Africa,7.0,21.0,5513282,2025
+Canada,CAN,Ottawa,🇨🇦,Americas,60.0,-95.0,41651653,2025
+Switzerland,CHE,Bern,🇨🇭,Europe,47.0,8.0,9092436,2025
+Chile,CHL,Santiago,🇨🇱,Americas,-30.0,-71.0,19859921,2025
+China,CHN,Beijing,🇨🇳,Asia,35.0,105.0,1406585000,2025
+Ivory Coast,CIV,Yamoussoukro,🇨🇮,Africa,8.0,-5.0,32711547,2025
+Cameroon,CMR,Yaoundé,🇨🇲,Africa,6.0,12.0,29879337,2025
+DR Congo,COD,Kinshasa,🇨🇩,Africa,0.0,25.0,112832473,2025
+Congo,COG,Brazzaville,🇨🇬,Africa,-1.0,15.0,6484437,2025
+Colombia,COL,Bogotá,🇨🇴,Americas,4.0,-72.0,53425635,2025
+Comoros,COM,Moroni,🇰🇲,Africa,-12.16666666,44.25,882847,2025
+Cape Verde,CPV,Praia,🇨🇻,Africa,16.0,-24.0,527326,2025
+Costa Rica,CRI,San José,🇨🇷,Americas,10.0,-84.0,5152950,2025
+Cuba,CUB,Havana,🇨🇺,Americas,21.5,-80.0,10937203,2025
+Cyprus,CYP,Nicosia,🇨🇾,Europe,35.0,33.0,1370754,2025
+Czechia,CZE,Prague,🇨🇿,Europe,49.75,15.5,10886878,2025
+Germany,DEU,Berlin,🇩🇪,Europe,51.0,9.0,83491249,2025
+Djibouti,DJI,Djibouti,🇩🇯,Africa,11.5,43.0,1184076,2025
+Dominica,DMA,Roseau,🇩🇲,Americas,15.41666666,-61.33333333,65871,2025
+Denmark,DNK,Copenhagen,🇩🇰,Europe,56.0,10.0,6009169,2025
+Dominican Republic,DOM,Santo Domingo,🇩🇴,Americas,19.0,-70.66666666,11520487,2025
+Algeria,DZA,Algiers,🇩🇿,Africa,28.0,3.0,47435312,2025
+Ecuador,ECU,Quito,🇪🇨,Americas,-2.0,-77.5,18289896,2025
+Egypt,EGY,Cairo,🇪🇬,Africa,27.0,30.0,118365995,2025
+Eritrea,ERI,Asmara,🇪🇷,Africa,15.0,39.0,3607003,2025
+Spain,ESP,Madrid,🇪🇸,Europe,40.0,-4.0,49355143,2025
+Estonia,EST,Tallinn,🇪🇪,Europe,59.0,26.0,1366475,2025
+Ethiopia,ETH,Addis Ababa,🇪🇹,Africa,8.0,38.0,135472051,2025
+Finland,FIN,Helsinki,🇫🇮,Europe,64.0,26.0,5646436,2025
+Fiji,FJI,Suva,🇫🇯,Oceania,-18.0,175.0,933154,2025
+France,FRA,Paris,🇫🇷,Europe,46.0,2.0,68720337,2025
+Micronesia,FSM,Palikir,🇫🇲,Oceania,6.91666666,158.25,113683,2025
+Gabon,GAB,Libreville,🇬🇦,Africa,-1.0,11.75,2593130,2025
+United Kingdom,GBR,London,🇬🇧,Europe,54.0,-2.0,69487000,2025
+Georgia,GEO,Tbilisi,🇬🇪,Asia,42.0,43.5,3935766,2025
+Ghana,GHA,Accra,🇬🇭,Africa,8.0,-2.0,35064272,2025
+Guinea,GIN,Conakry,🇬🇳,Africa,11.0,-10.0,15099727,2025
+Gambia,GMB,Banjul,🇬🇲,Africa,13.46666666,-16.56666666,2822093,2025
+Guinea-Bissau,GNB,Bissau,🇬🇼,Africa,12.0,-15.0,2249515,2025
+Equatorial Guinea,GNQ,Ciudad de la Paz,🇬🇶,Africa,2.0,10.0,1938431,2025
+Greece,GRC,Athens,🇬🇷,Europe,39.0,22.0,10413962,2025
+Grenada,GRD,St. George's,🇬🇩,Americas,12.11666666,-61.66666666,117303,2025
+Guatemala,GTM,Guatemala City,🇬🇹,Americas,15.5,-90.25,18687881,2025
+Guyana,GUY,Georgetown,🇬🇾,Americas,5.0,-59.0,835986,2025
+Honduras,HND,Tegucigalpa,🇭🇳,Americas,15.0,-86.5,11005850,2025
+Croatia,HRV,Zagreb,🇭🇷,Europe,45.16666666,15.5,3876200,2025
+Haiti,HTI,Port-au-Prince,🇭🇹,Americas,19.0,-72.41666666,11906095,2025
+Hungary,HUN,Budapest,🇭🇺,Europe,47.0,20.0,9514251,2025
+Indonesia,IDN,Jakarta,🇮🇩,Asia,-5.0,120.0,285721236,2025
+India,IND,New Delhi,🇮🇳,Asia,20.0,77.0,1463865525,2025
+Ireland,IRL,Dublin,🇮🇪,Europe,53.0,-8.0,5484367,2025
+Iran,IRN,Tehran,🇮🇷,Asia,32.0,53.0,92417681,2025
+Iraq,IRQ,Baghdad,🇮🇶,Asia,33.0,44.0,47020774,2025
+Iceland,ISL,Reykjavik,🇮🇸,Europe,65.0,-18.0,392404,2025
+Israel,ISR,Jerusalem,🇮🇱,Asia,31.47,35.13,10122800,2025
+Italy,ITA,Rome,🇮🇹,Europe,42.83333333,12.83333333,58915656,2025
+Jamaica,JAM,Kingston,🇯🇲,Americas,18.25,-77.5,2837077,2025
+Jordan,JOR,Amman,🇯🇴,Asia,31.0,36.0,11520684,2025
+Japan,JPN,Tokyo,🇯🇵,Asia,36.0,138.0,123366734,2025
+Kazakhstan,KAZ,Astana,🇰🇿,Asia,48.0,68.0,20843754,2025
+Kenya,KEN,Nairobi,🇰🇪,Africa,1.0,38.0,57532493,2025
+Kyrgyzstan,KGZ,Bishkek,🇰🇬,Asia,41.0,75.0,7343064,2025
+Cambodia,KHM,Phnom Penh,🇰🇭,Asia,13.0,105.0,17847982,2025
+Kiribati,KIR,South Tarawa,🇰🇮,Oceania,1.41666666,173.0,136488,2025
+Saint Kitts and Nevis,KNA,Basseterre,🇰🇳,Americas,17.33333333,-62.75,46922,2025
+South Korea,KOR,Seoul,🇰🇷,Asia,37.0,127.5,51684564,2025
+Kuwait,KWT,Kuwait City,🇰🇼,Asia,29.5,45.75,4865298,2025
+Laos,LAO,Vientiane,🇱🇦,Asia,18.0,105.0,7873046,2025
+Lebanon,LBN,Beirut,🇱🇧,Asia,33.83333333,35.83333333,5849421,2025
+Liberia,LBR,Monrovia,🇱🇷,Africa,6.5,-9.5,5731206,2025
+Libya,LBY,Tripoli,🇱🇾,Africa,25.0,17.0,7458555,2025
+Saint Lucia,LCA,Castries,🇱🇨,Americas,13.88333333,-60.96666666,180149,2025
+Liechtenstein,LIE,Vaduz,🇱🇮,Europe,47.26666666,9.53333333,41024,2025
+Sri Lanka,LKA,Colombo,🇱🇰,Asia,7.0,81.0,21756000,2025
+Lesotho,LSO,Maseru,🇱🇸,Africa,-29.5,28.5,2363325,2025
+Lithuania,LTU,Vilnius,🇱🇹,Europe,56.0,24.0,2888774,2025
+Luxembourg,LUX,Luxembourg,🇱🇺,Europe,49.75,6.16666666,686970,2025
+Latvia,LVA,Riga,🇱🇻,Europe,57.0,25.0,1847785,2025
+Morocco,MAR,Rabat,🇲🇦,Africa,32.0,-5.0,38430770,2025
+Monaco,MCO,Monaco,🇲🇨,Europe,43.73333333,7.4,38341,2025
+Moldova,MDA,Chișinău,🇲🇩,Europe,47.0,29.0,2360527,2025
+Madagascar,MDG,Antananarivo,🇲🇬,Africa,-20.0,47.0,32740678,2025
+Maldives,MDV,Malé,🇲🇻,Asia,3.25,73.0,529676,2025
+Mexico,MEX,Mexico City,🇲🇽,Americas,23.0,-102.0,131946900,2025
+Marshall Islands,MHL,Majuro,🇲🇭,Oceania,9.0,168.0,36282,2025
+North Macedonia,MKD,Skopje,🇲🇰,Europe,41.83333333,22.0,1820909,2025
+Mali,MLI,Bamako,🇲🇱,Africa,17.0,-4.0,25198821,2025
+Malta,MLT,Valletta,🇲🇹,Europe,35.83333333,14.58333333,579704,2025
+Myanmar,MMR,Naypyidaw,🇲🇲,Asia,22.0,98.0,54850648,2025
+Montenegro,MNE,Podgorica,🇲🇪,Europe,42.5,19.3,623129,2025
+Mongolia,MNG,Ulan Bator,🇲🇳,Asia,46.0,105.0,3568978,2025
+Mozambique,MOZ,Maputo,🇲🇿,Africa,-18.25,35.0,35631653,2025
+Mauritania,MRT,Nouakchott,🇲🇷,Africa,20.0,-12.0,5315065,2025
+Mauritius,MUS,Port Louis,🇲🇺,Africa,-20.28333333,57.55,1243741,2025
+Malawi,MWI,Lilongwe,🇲🇼,Africa,-13.5,34.0,22216120,2025
+Malaysia,MYS,Kuala Lumpur,🇲🇾,Asia,2.5,112.5,35977838,2025
+Namibia,NAM,Windhoek,🇳🇦,Africa,-22.0,17.0,3092816,2025
+Niger,NER,Niamey,🇳🇪,Africa,16.0,8.0,27917831,2025
+Nigeria,NGA,Abuja,🇳🇬,Africa,10.0,8.0,237527782,2025
+Nicaragua,NIC,Managua,🇳🇮,Americas,13.0,-85.0,7007502,2025
+Netherlands,NLD,Amsterdam,🇳🇱,Europe,52.5,5.75,18087633,2025
+Norway,NOR,Oslo,🇳🇴,Europe,62.0,10.0,5610870,2025
+Nepal,NPL,Kathmandu,🇳🇵,Asia,28.0,84.0,29618118,2025
+Nauru,NRU,Yaren,🇳🇷,Oceania,-0.53333333,166.91666666,12025,2025
+New Zealand,NZL,Wellington,🇳🇿,Oceania,-41.0,174.0,5324700,2025
+Oman,OMN,Muscat,🇴🇲,Asia,21.0,57.0,5494691,2025
+Pakistan,PAK,Islamabad,🇵🇰,Asia,30.0,70.0,255219554,2025
+Panama,PAN,Panama City,🇵🇦,Americas,9.0,-80.0,4571189,2025
+Peru,PER,Lima,🇵🇪,Americas,-10.0,-76.0,34576665,2025
+Philippines,PHL,Manila,🇵🇭,Asia,13.0,122.0,116786962,2025
+Palau,PLW,Ngerulmud,🇵🇼,Oceania,7.5,134.5,17663,2025
+Papua New Guinea,PNG,Port Moresby,🇵🇬,Oceania,-6.0,147.0,10762817,2025
+Poland,POL,Warsaw,🇵🇱,Europe,52.0,20.0,36435861,2025
+North Korea,PRK,Pyongyang,🇰🇵,Asia,40.0,127.0,26571036,2025
+Portugal,PRT,Lisbon,🇵🇹,Europe,39.5,-8.0,10804871,2025
+Paraguay,PRY,Asunción,🇵🇾,Americas,-23.0,-58.0,7013078,2025
+Qatar,QAT,Doha,🇶🇦,Asia,25.5,51.25,2972215,2025
+Romania,ROU,Bucharest,🇷🇴,Europe,46.0,25.0,19020271,2025
+Russia,RUS,Moscow,🇷🇺,Europe,60.0,100.0,143513328,2025
+Rwanda,RWA,Kigali,🇷🇼,Africa,-2.0,30.0,14569341,2025
+Saudi Arabia,SAU,Riyadh,🇸🇦,Asia,25.0,45.0,36973555,2025
+Sudan,SDN,Khartoum,🇸🇩,Africa,15.0,30.0,51662147,2025
+Senegal,SEN,Dakar,🇸🇳,Africa,14.0,-14.0,18931966,2025
+Singapore,SGP,Singapore,🇸🇬,Asia,1.36666666,103.8,6111175,2025
+Solomon Islands,SLB,Honiara,🇸🇧,Oceania,-8.0,159.0,838645,2025
+Sierra Leone,SLE,Freetown,🇸🇱,Africa,8.5,-11.5,8819794,2025
+El Salvador,SLV,San Salvador,🇸🇻,Americas,13.83333333,-88.91666666,6365503,2025
+San Marino,SMR,City of San Marino,🇸🇲,Europe,43.76666666,12.41666666,34109,2025
+Somalia,SOM,Mogadishu,🇸🇴,Africa,10.0,49.0,19654739,2025
+Serbia,SRB,Belgrade,🇷🇸,Europe,44.0,21.0,6549143,2025
+South Sudan,SSD,Juba,🇸🇸,Africa,7.0,30.0,12188788,2025
+São Tomé and Príncipe,STP,São Tomé,🇸🇹,Africa,1.0,7.0,240254,2025
+Suriname,SUR,Paramaribo,🇸🇷,Americas,4.0,-56.0,639850,2025
+Slovakia,SVK,Bratislava,🇸🇰,Europe,48.66666666,19.5,5413813,2025
+Slovenia,SVN,Ljubljana,🇸🇮,Europe,46.11666666,14.81666666,2130986,2025
+Sweden,SWE,Stockholm,🇸🇪,Europe,62.0,15.0,10596620,2025
+Eswatini,SWZ,Lobamba,🇸🇿,Africa,-26.5,31.5,1256174,2025
+Seychelles,SYC,Victoria,🇸🇨,Africa,-4.58333333,55.66666666,122730,2025
+Syria,SYR,Damascus,🇸🇾,Asia,35.0,38.0,25620427,2025
+Chad,TCD,N'Djamena,🇹🇩,Africa,15.0,19.0,21003705,2025
+Togo,TGO,Lomé,🇹🇬,Africa,8.0,1.16666666,8591626,2025
+Thailand,THA,Bangkok,🇹🇭,Asia,15.0,100.0,71619863,2025
+Tajikistan,TJK,Dushanbe,🇹🇯,Asia,39.0,71.0,10786734,2025
+Turkmenistan,TKM,Ashgabat,🇹🇲,Asia,40.0,60.0,7618847,2025
+Timor-Leste,TLS,Dili,🇹🇱,Asia,-8.83333333,125.91666666,1418517,2025
+Tonga,TON,Nuku'alofa,🇹🇴,Oceania,-20.0,-175.0,103742,2025
+Trinidad and Tobago,TTO,Port of Spain,🇹🇹,Americas,11.0,-61.0,1367764,2025
+Tunisia,TUN,Tunis,🇹🇳,Africa,34.0,9.0,12348573,2025
+Türkiye,TUR,Ankara,🇹🇷,Asia,39.0,35.0,85878556,2025
+Tuvalu,TUV,Funafuti,🇹🇻,Oceania,-8.0,178.0,9492,2025
+Tanzania,TZA,Dodoma,🇹🇿,Africa,-6.0,35.0,70545865,2025
+Uganda,UGA,Kampala,🇺🇬,Africa,1.0,32.0,51384894,2025
+Ukraine,UKR,Kyiv,🇺🇦,Europe,49.0,32.0,38980376,2025
+Uruguay,URY,Montevideo,🇺🇾,Americas,-33.0,-56.0,3384688,2025
+United States,USA,Washington D.C.,🇺🇸,Americas,38.0,-97.0,341784857,2025
+Uzbekistan,UZB,Tashkent,🇺🇿,Asia,41.0,64.0,37053428,2025
+Saint Vincent and the Grenadines,VCT,Kingstown,🇻🇨,Americas,13.25,-61.2,99924,2025
+Venezuela,VEN,Caracas,🇻🇪,Americas,8.0,-66.0,28516896,2025
+Vietnam,VNM,Hanoi,🇻🇳,Asia,16.16666666,107.83333333,101598527,2025
+Vanuatu,VUT,Port Vila,🇻🇺,Oceania,-16.0,167.0,335169,2025
+Samoa,WSM,Apia,🇼🇸,Oceania,-13.58333333,-172.33333333,219306,2025
+Yemen,YEM,Sana'a,🇾🇪,Asia,15.0,48.0,41773878,2025
+Zambia,ZMB,Lusaka,🇿🇲,Africa,-15.0,30.0,21913874,2025
+Zimbabwe,ZWE,Harare,🇿🇼,Africa,-20.0,30.0,16950795,2025
